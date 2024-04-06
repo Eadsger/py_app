@@ -14,6 +14,12 @@ Para executar este projeto, você precisará ter o Python e o Flask instalados e
 pip install Flask
 ```
 
+Além disso, este projeto utiliza o módulo requests para realizar solicitações HTTP. Você pode instalar o módulo requests executando o seguinte comando:
+
+```bash
+pip install requests
+```
+
 ## Executando o projeto
 
 1. Clone este repositório para o seu sistema.
