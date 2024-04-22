@@ -37,3 +37,5 @@ Este projeto inclui um arquivo test.py com testes básicos para as funcionalidad
 ```bash
 python test.py
 ```
+
+## Este projeto serve como pratica para a Diciplina de DevOps
